@@ -1,4 +1,4 @@
-The-Adventure-of-Dorothy
+# The-Adventure-of-Dorothy
 
 기컴프 그룹 과제
 ![image](https://user-images.githubusercontent.com/80982532/120929218-298fba00-c723-11eb-8cae-0576ed06fc31.png)
