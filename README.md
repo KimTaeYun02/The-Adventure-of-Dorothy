@@ -17,6 +17,7 @@ https://youtu.be/ceWyi4cU8Ko
 Setup The-Adventure-of-Dorothy.msi
 
 setup.exe
+
 두 파일을 실행해 설치합니다.
 바탕화면에 아이콘이 생성됩니다.
 
